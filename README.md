@@ -1,0 +1,3 @@
+Hi, I am Fernando Estudillo, I am currently making a shift in my career from a mechanical automotive engineer to data scientist, I have always been passioned about learning new knowledge, specially that one that take my breath away.
+I have started this journey through TripleTen bootcamp and I have loved it. It has provided me the tools necessary to successfully complete data processing, finding patterns in data thrugh plots and finally running different machine learning models.
+Now, I am continuing my learning process through different courses to round my skills to become a better data science, I will not stop until I can proof I can be a great professional in this area as well.
